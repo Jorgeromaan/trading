@@ -1,0 +1,11 @@
+{
+  "initialized": false,
+  "searching": false,
+  "search_start_ts": null,
+  "state5_buy": 0,
+  "state5_sell": 0,
+  "state1_buy": 0,
+  "state1_sell": 0,
+  "last_h1_ts": 0,
+  "last_m5_ts": 0,
+  "last_m1_ts": 0
